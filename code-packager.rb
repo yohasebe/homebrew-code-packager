@@ -1,9 +1,9 @@
 class CodePackager < Formula
   desc "Package your codebase into a JSON file, ready to be analyzed and understood by large language models (LLMs) like GPT-4, Claude, Command R, and Gemini"
   homepage "https://github.com/yohasebe/code-packager"
-  url "https://github.com/yohasebe/code-packager/archive/233a74d3e37c0f3922edb6341c10cdac2ee126de.zip"
+  url "https://github.com/yohasebe/code-packager/archive/1d4fc5bae7a08c42f8d064a35ff3c9072022323e.zip"
   version "0.1.1"
-  sha256 "1a0f73612d550d79bb6207598c6d7871d171f5043a22f6da7fea4f1f87ee569c"
+  sha256 "57608d4ef88e8ca7a4691abba031cf8bae5177127c4a07289852b3d5547c73dd"
   license "MIT"
 
   depends_on "git"
