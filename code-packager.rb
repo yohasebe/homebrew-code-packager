@@ -1,9 +1,9 @@
 class CodePackager < Formula
   desc "A set of bash scripts that package and unpack your codebase into and from a single JSON file, ready to be analyzed and understood by large language models (LLMs) like GPT, Claude, Command R, and Gemini"
   homepage "https://github.com/yohasebe/code-packager"
-  url "https://github.com/yohasebe/code-packager/archive/0cd764cccbee74382af1628e261d3d7536e29751.zip"
-  version "0.3.0"
-  sha256 "97ac9d71d39c6b19b1f4830d72052d9958cf7cbd28de0a86ee5aa431f97bdfb0"
+  url "https://github.com/yohasebe/code-packager/archive/6e89a0e169ac92e952ecbdec076cef2a9248d302.zip"
+  version "0.3.1"
+  sha256 "7d6ecd840a3aa3fd7c9bd981434b075ae1fe933d01cc46658c0d62cf21c293c3"
   license "MIT"
 
   depends_on "git"
